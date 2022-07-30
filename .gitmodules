@@ -4,3 +4,4 @@
 [submodule "gitsubm2"]
 	path = gitsubm2
 	url = https://github.com/codevenktures/gitsubm2
+	branch = nbr2
